@@ -57,15 +57,7 @@
     139 JWL50
       2 KI14 PA Ballet email 10/16
       1 KI15 POA Paid email 3/5
-      1 Kimmel Ovations Email 10/22/13
-      1 Kimmel Ovations Email 10/8/13
-      1 Kimmel Ovations Email 11/19/13
-      1 Kimmel Ovations Email 11/26/13
-      1 Kimmel Ovations Email 12/10/13
-      1 Kimmel Ovations Email 2/17/14
-      1 Kimmel Ovations Email 2/25/14
-      3 Kimmel Ovations Email 3/18/14
-      1 Kimmel Ovations Email 8/20/13
+      11 Kimmel Ovations Emails
       1 KP14 STIX email 9/25
       2 MARCH
      62 MOMBOGO
