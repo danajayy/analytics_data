@@ -166,8 +166,7 @@
      34 PB16 MKT SUB Ren email 4/28
     142 PB16 MKT SUB Ren email 4/9
      45 PB16 Season Announcement email
-      1 PB16 Subscription Rollover
-   2995 PB16 Subscription Rollover
+   2996 PB16 Subscription Rollover
     101 PB16 SUBS-WAVE 2: Renewal Reminder PC
       6 pba gen 1
   22543 PBA Web Sales
@@ -217,7 +216,6 @@
       9 SERENADEPOST
     128 Social Media
     105 SON30
-      1 source_name
      68 STAFF25
       1 STIX1415
      60 SUBSCRIBER
