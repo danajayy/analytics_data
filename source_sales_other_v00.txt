@@ -1,0 +1,154 @@
+2:      1 ANBG20
+3:     40 ANGEL20
+4:      1 BALLET30
+5:     97 BOGOFULL
+8:     61 BUTLER
+9:      1 BUTLERWEB
+12:      6 Cancelled Performance
+13:    112 CANDYCANE
+14:      2 CARMINATM
+15:      3 CARMINATM50
+16:    120 Conflict Resolution
+17:     42 COPPWEB
+18:      1 COSTELLO
+20:      2 DEBUT50
+21:     31 DEWDROP
+22:     18 DIAMONDS
+23:      2 disc1
+24:     10 DOLL
+25:     21 DRANOFF10
+26:    197 DREAM30
+29:     64 ENCORE50
+30:      1 FANCYFREE30
+31:     12 FAUN65
+32:    103 FEBRUARY
+33:      5 FINALDANCE
+34:     14 FINALE
+35:     16 FINALE3
+36:     21 FINALEWEB
+37:      5 FORSYTHE
+38:      3 FY13 EDU Open Rehearsal Tickets
+39:      1 FY14 ticketholders - NTF
+40:      2 FY15 PRODIGAL-Last Chance Emai
+41:      1 FY15 PRODIGAL-Pre-Show Talk Em
+42:    392 gen1
+43:     27 GIFTTOCITY
+44:     89 GINGER
+45:      1 Hospitality25
+48:      1 JEWEL13OP
+49:      1 JEWEL13PB
+50:     71 Jewel50
+51:     36 JEWELKML50
+52:     14 JEWELPOST
+53:      7 JEWELSTAFF
+54:      2 JEWELTM
+55:      2 JEWELWEB
+56:      1 JUNEBOGO
+57:    139 JWL50
+70:      2 MARCH
+71:     62 MOMBOGO
+72:      3 MORRIS25
+73:      1 NIAGARA20
+74:      1 NUT10FMC
+75:      1 NUT10NIAG
+76:     25 NUT13PB
+77:     13 NUT15
+78:    139 NUT30
+79:    110 NUTBLOG
+80:     66 NUTDANCER
+81:     59 NUTFINAL
+82:     50 NUTFRIDAY
+83:      1 NUTOPEN
+84:     42 NUTPB2
+85:      1 NUTPECO
+86:     15 NUTPOST
+87:     79 NUTSTAFF
+88:      2 NUTSTB4
+89:     26 NUTTC20
+90:      7 NUTTM1
+91:      4 NUTTM2
+92:    351 NUTWEB30
+93:      2 OP Private Sale
+94:      3 OP Single
+95:     48 PB12 Nut Pre-show Eblast 3 12/19
+96:      3 PB13 Ballet Rollover
+97:      1 PB13 Carnival STBs
+98:      7 PB13 Groups eblast 2 7/18
+99:      1 PB13 May eNews 5/8/13
+100:      6 PB13 Midsummer STBs
+103:      3 PB14 50th Finale opening night
+105:      1 PB14 Board Chair letter 6/13
+114:      3 PB14 E-news 12/2
+115:      2 PB14 E-news Feb 2/27
+116:      1 PB14 E-news July 7/8
+117:      3 PB14 E-news Mar 50th 3/17
+118:      3 PB14 E-news Mar 50th 3/24
+119:      1 PB14 E-news Nov 50th 11/19
+120:      1 PB14 Group Sales DM 5/20
+133:      2 PB14 Sub Ren Coming PC
+136:     50 PB14 Sub Ren Follow Up PC 3/18
+141:      5 PB15 Early Bird Sub Ren-Donors 2/5
+142:     19 PB15 Early Bird Sun Ren-Nondonor 2/5
+143:      7 PB15 E-news April
+144:      1 PB15 E-news Dec 11/26
+145:      1 PB15 E-news Mar 2/27/15
+146:      1 PB15 E-news Sept 9/24
+149:      2 PB15 Nut Buyers
+155:     10 PB15 Press Play
+158:      4 PB15 Single Tix On Sale
+160:     12 PB15 Sub Acq 50th Finale TM
+170:    101 PB16 SUBS-WAVE 2: Renewal Reminder PC
+171:      6 pba gen 1
+175:      1 PITPFF23
+176:      1 PO13 eNews 8/26/13
+190:      1 PO15 Season Launch evite 2/18
+191:      6 PO15 Season On Sale NOW! 2/19
+196:      3 PO16 REG Renewal Rem 4/18
+197:      5 PO16 Regular CYO Rem 2/13
+198:      1 PO16 Season Announce evite 1
+204:      1 PRESS20
+206:     11 PRODIGAL50
+210:     29 ROBBINS
+211:      7 RUBY13PMA
+212:     24 RUBY20
+217:    128 Social Media
+218:    105 SON30
+219:     68 STAFF25
+220:      1 STIX1415
+221:     60 SUBSCRIBER
+223:      1 SUD20
+224:      2 SUGARPLUM
+225:     13 SUN25
+226:    109 SWAN25
+227:      5 Telemarketing
+230:     28 Ticket Donation
+233:     10 YFNIGHT1
+234:      9 YFPROMO15
+235:      1 1-PB14 Full Renewal
+236:     10 1-PB15 Fri Eve Plus Renewal
+237:     15 2-PB15 Sat Eve Plus Renewal
+238:     27 3-PB15 Sat Mat Plus Renewal
+239:      5 4-PB15 Sun Mat Plus Renewal
+240:     12 5-PB15 Thu Eve Plus Renewal
+241:      6 6-PB15 Family Renewal
+242:     19 7-PB15 Family Pick Renewal
+243:      7 8-PB15 Pick 4 Renewal
+244:    149 9-PB15 Pick 3 Renewal
+245:     37 10-PB15 Pick 2 Renewal
+246:      8 11-PB15 Partial Pick Renewal
+247:     11 12-PB15 BalanFav Renewal
+248:     26 13-PB13 1yr Lap Subs Full
+249:      3 14-PB13 1yr Lap Subs Fam Partial
+250:      6 16-PB13 1yr Lap Subs Pick3
+251:    185 18-PB14 Current STBs (noNut)
+252:      3 19-PB12 2yr Lap Subs Full
+253:      2 21-PB12 2yr Lap Subs Pick4
+254:      7 22-PB12 2yr Lap Subs Pick3
+255:     45 25-PB13 1yr Lap STBs (noNut)
+256:    172 26-PB14 Current Nutcracker STBs
+257:      3 27-PB11 3yr Lap Subs Full
+258:     40 31-PB12 2yr Lap STBs (noNut)
+259:     10 32-PB11 3yr Lap STBs (no Nut)
+260:     23 33-PB13 Nutcracker STBs
+261:     12 34-PB12 Nutcracker STBs
+262:     61 50FINALE
